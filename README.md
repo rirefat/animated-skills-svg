@@ -3,7 +3,7 @@ This is simple illustration of some of my skills. Only HTML, CSS, CSS FlexBox, C
 
 Project Link: [Live Preview](https://animated-skills-svg.netlify.app/)
 
-<!-- ![Project Preview Image](./modern-login-ui.png) -->
+![Project Preview Image](./project_preview.png)
 
 ### Discuss About Any Web Development Project:
 - [http://rirefat.netlify.app/](http://rirefat.netlify.app/)
