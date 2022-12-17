@@ -5,8 +5,9 @@ h3{
     text-align: center;
     color: lightslategray;
     font-size: 22px;
-    /* position: absolute;
-    top: 20%; */
+    position: absolute;
+    top: 20%;
+    left: 40%;
 }
 .skill-container{
     display: flex;
